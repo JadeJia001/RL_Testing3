@@ -1,0 +1,6 @@
+{
+  "total_episodes": 150,
+  "failure_rate": 0.9933333333333333,
+  "mean_episode_score": 0.8901297063706815,
+  "max_episode_score": 0.9999199395627356
+}

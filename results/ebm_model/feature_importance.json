@@ -1,0 +1,9 @@
+{
+  "predictive_dispersion": -2.177987232192657e-05,
+  "diagonal_approx": 6.9929058675046984e-06,
+  "planning_error": 0.0005726491438755848,
+  "reward_pred_error": 0.0,
+  "novelty": -0.0014287928981850453,
+  "state_instability": -0.0021243677715608237,
+  "action_sensitivity": -0.0020760870191289284
+}

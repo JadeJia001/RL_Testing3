@@ -1,0 +1,20 @@
+# PETS + CartPole-v1 configuration
+env:
+  name: CartPole-v1
+  max_episode_steps: 500
+
+pets:
+  ensemble_size: 5
+  num_epochs: 50
+  batch_size: 256
+  learning_rate: 0.001
+  num_trials: 500
+  trial_length: 500
+
+cem:
+  num_iterations: 5
+  population_size: 500
+  elite_ratio: 0.1
+  planning_horizon: 25
+
+seed: 42

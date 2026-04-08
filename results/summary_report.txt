@@ -1,0 +1,15 @@
+Model-Based RL Testing Framework - Experiment Results
+============================================================
+
+| Metric                          | G0 Random   | G1 Evolutionary |
+|--------------------------------|-------------|-----------------|
+| Total episodes                 |         150 |             150 |
+| Failure rate                   |      0.9933 |          1.0000 |
+| Failure coverage (bins hit)    |     9/27     |         9/27     |
+| Failure coverage (ratio)       |      1.0000 |          1.0000 |
+| AUROC                          |      0.3893 |             N/A |
+| AUPRC                          |      0.9938 |             N/A |
+| ECE                            |      0.1032 |          0.1424 |
+| Time-to-first-failure          |           1 |               1 |
+| Max episode_score              |      0.9999 |          1.0000 |
+| Mean episode_score             |      0.8901 |          0.8576 |

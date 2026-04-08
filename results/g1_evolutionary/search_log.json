@@ -1,0 +1,1302 @@
+[
+  {
+    "generation": 0,
+    "episode_score": 0.926474188104501,
+    "bin": [
+      2,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.2525807915684327,
+    "p": 0.0
+  },
+  {
+    "generation": 1,
+    "episode_score": 0.42072220338039684,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4207302980456219,
+    "p": 0.3
+  },
+  {
+    "generation": 2,
+    "episode_score": 0.988714743157469,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.47270115837732035,
+    "p": 0.09566663961430771
+  },
+  {
+    "generation": 3,
+    "episode_score": 0.6309945625414112,
+    "bin": [
+      0,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3851702670528514,
+    "p": 0.056434104165059326
+  },
+  {
+    "generation": 4,
+    "episode_score": 0.690612693390081,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3005161689321769,
+    "p": 0.051457519744052764
+  },
+  {
+    "generation": 5,
+    "episode_score": 0.9465692682115665,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.40211090114557063,
+    "p": 0.19145251519522555
+  },
+  {
+    "generation": 6,
+    "episode_score": 0.49659266461949303,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.1926718654511232,
+    "p": 0.16132808912968616
+  },
+  {
+    "generation": 7,
+    "episode_score": 0.9641718441268692,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.14400579223287246,
+    "p": 0.12730835494047296
+  },
+  {
+    "generation": 8,
+    "episode_score": 0.9888366697553191,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.06146019417770813,
+    "p": 0.2101064451036643
+  },
+  {
+    "generation": 9,
+    "episode_score": 0.9980811109892946,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.390223647481421,
+    "p": 0.12122102959563033
+  },
+  {
+    "generation": 10,
+    "episode_score": 0.43450695095660957,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.46777130539923995,
+    "p": 0.24451535919471917
+  },
+  {
+    "generation": 11,
+    "episode_score": 0.9994671484812025,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.1419382972327723,
+    "p": 0.14319263327881193
+  },
+  {
+    "generation": 12,
+    "episode_score": 0.5485015689780872,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.41613117998481924,
+    "p": 0.12403749691169877
+  },
+  {
+    "generation": 13,
+    "episode_score": 0.9260723088307738,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.012336666649533643,
+    "p": 0.233928353049855
+  },
+  {
+    "generation": 14,
+    "episode_score": 0.581762239544598,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.4150941186985649,
+    "p": 0.06300750283487579
+  },
+  {
+    "generation": 15,
+    "episode_score": 0.9984074477025099,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4018826319205575,
+    "p": 0.054179054388703025
+  },
+  {
+    "generation": 16,
+    "episode_score": 0.9876871104889076,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.19596910286588998,
+    "p": 0.26947293748831436
+  },
+  {
+    "generation": 17,
+    "episode_score": 0.9996733999522709,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.33632347776201654,
+    "p": 0.03776548411216428
+  },
+  {
+    "generation": 18,
+    "episode_score": 0.9119405399744429,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3615184652553409,
+    "p": 0.031212478189025766
+  },
+  {
+    "generation": 19,
+    "episode_score": 0.7489032494731485,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.20162602132295487,
+    "p": 0.3
+  },
+  {
+    "generation": 20,
+    "episode_score": 0.9990861157380495,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.45814530757047034,
+    "p": 0.0
+  },
+  {
+    "generation": 21,
+    "episode_score": 0.732642200958193,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.39107960170487815,
+    "p": 0.27841002892697586
+  },
+  {
+    "generation": 22,
+    "episode_score": 0.507003370674068,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3670760886690357,
+    "p": 0.03610047681094234
+  },
+  {
+    "generation": 23,
+    "episode_score": 0.99893751665667,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.47105452225142014,
+    "p": 0.059918279657058704
+  },
+  {
+    "generation": 24,
+    "episode_score": 0.7504175419908546,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.07524518938435446,
+    "p": 0.12966407157251286
+  },
+  {
+    "generation": 25,
+    "episode_score": 0.7342854439747603,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.40736635351009326,
+    "p": 0.015675692372509764
+  },
+  {
+    "generation": 26,
+    "episode_score": 0.9863484679949824,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3666529946960073,
+    "p": 0.0
+  },
+  {
+    "generation": 27,
+    "episode_score": 0.9995455743533671,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.29132772008734187,
+    "p": 0.06202465294764498
+  },
+  {
+    "generation": 28,
+    "episode_score": 0.9647915194514625,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.45021356571853594,
+    "p": 0.0
+  },
+  {
+    "generation": 29,
+    "episode_score": 0.8130205853630408,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.43037343637649,
+    "p": 0.16068766818069957
+  },
+  {
+    "generation": 30,
+    "episode_score": 0.44111389419614594,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.36787406258598193,
+    "p": 0.009723991760560553
+  },
+  {
+    "generation": 31,
+    "episode_score": 0.9956204080802246,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.0,
+    "p": 0.2890540922630027
+  },
+  {
+    "generation": 32,
+    "episode_score": 0.9919347556762788,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.38895660477011135,
+    "p": 0.0
+  },
+  {
+    "generation": 33,
+    "episode_score": 0.9290395098740899,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4679111675906331,
+    "p": 0.007999580678671913
+  },
+  {
+    "generation": 34,
+    "episode_score": 0.989639769806686,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.4522781113633229,
+    "p": 0.25885670232650015
+  },
+  {
+    "generation": 35,
+    "episode_score": 0.9941428092281438,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.41803555158728734,
+    "p": 0.06809212157546728
+  },
+  {
+    "generation": 36,
+    "episode_score": 0.7673344161645446,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.5,
+    "p": 0.3
+  },
+  {
+    "generation": 37,
+    "episode_score": 0.98674416673352,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.039383395439968445,
+    "p": 0.153762028002537
+  },
+  {
+    "generation": 38,
+    "episode_score": 0.9741425669387742,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4330086281375472,
+    "p": 0.11635938805303406
+  },
+  {
+    "generation": 39,
+    "episode_score": 0.9877172195556572,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.21700329977952026,
+    "p": 0.22668671803728643
+  },
+  {
+    "generation": 40,
+    "episode_score": 0.9961478072679839,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.27000384187503834,
+    "p": 0.03929705874188515
+  },
+  {
+    "generation": 41,
+    "episode_score": 0.7679834880801739,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3725729500520133,
+    "p": 0.05013789126523021
+  },
+  {
+    "generation": 42,
+    "episode_score": 0.9553952279069399,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.40493695985357553,
+    "p": 0.05811013455090929
+  },
+  {
+    "generation": 43,
+    "episode_score": 0.9293879012046947,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.39838944078492694,
+    "p": 0.3
+  },
+  {
+    "generation": 44,
+    "episode_score": 0.7241276752151083,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.06520032884396852,
+    "p": 0.21427862912984535
+  },
+  {
+    "generation": 45,
+    "episode_score": 0.899365643715124,
+    "bin": [
+      2,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.18396326860040912,
+    "p": 0.0538913569203996
+  },
+  {
+    "generation": 46,
+    "episode_score": 0.7694880078008662,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3741925126789079,
+    "p": 0.06337899386283943
+  },
+  {
+    "generation": 47,
+    "episode_score": 0.6860891830755301,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.35702117410694045,
+    "p": 0.2671500237821145
+  },
+  {
+    "generation": 48,
+    "episode_score": 0.9888798282727513,
+    "bin": [
+      2,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.39369977992205585,
+    "p": 0.24044425448709864
+  },
+  {
+    "generation": 49,
+    "episode_score": 0.392633512690328,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.32405958546491104,
+    "p": 0.07663236291525148
+  },
+  {
+    "generation": 50,
+    "episode_score": 0.8504552272535953,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.1733211658187012,
+    "p": 0.08145934104879014
+  },
+  {
+    "generation": 51,
+    "episode_score": 0.5052609104652275,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4408594383724125,
+    "p": 0.12899249597905363
+  },
+  {
+    "generation": 52,
+    "episode_score": 0.9857734194639698,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.35707246507115314,
+    "p": 0.0540660697936975
+  },
+  {
+    "generation": 53,
+    "episode_score": 0.5918551823442928,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3555469194373175,
+    "p": 0.18482368088792772
+  },
+  {
+    "generation": 54,
+    "episode_score": 0.8230672650907038,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4109851944475622,
+    "p": 0.1606582779095977
+  },
+  {
+    "generation": 55,
+    "episode_score": 0.8242068652037452,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.41294466439213917,
+    "p": 0.06569949537490644
+  },
+  {
+    "generation": 56,
+    "episode_score": 0.8218476540770752,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.396323119839868,
+    "p": 0.22583569519692087
+  },
+  {
+    "generation": 57,
+    "episode_score": 0.9842980028611655,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.4402275933456652,
+    "p": 0.0
+  },
+  {
+    "generation": 58,
+    "episode_score": 0.9877625135073903,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.30519606351454776,
+    "p": 0.21422656459327602
+  },
+  {
+    "generation": 59,
+    "episode_score": 0.8580501996502801,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.20301295871988145,
+    "p": 0.26578201426048764
+  },
+  {
+    "generation": 60,
+    "episode_score": 0.9962325952334512,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.11852420832258487,
+    "p": 0.3
+  },
+  {
+    "generation": 61,
+    "episode_score": 0.9987499548715743,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.49367752020317585,
+    "p": 0.24402815464976474
+  },
+  {
+    "generation": 62,
+    "episode_score": 0.9787260285766544,
+    "bin": [
+      1,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.13385319666302592,
+    "p": 0.18896582607507034
+  },
+  {
+    "generation": 63,
+    "episode_score": 0.39342559304687746,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3728622123189488,
+    "p": 0.0
+  },
+  {
+    "generation": 64,
+    "episode_score": 0.7532287195101098,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.12661237008702764,
+    "p": 0.163551857521391
+  },
+  {
+    "generation": 65,
+    "episode_score": 0.9431265350569411,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.11525846553620148,
+    "p": 0.05044867768967523
+  },
+  {
+    "generation": 66,
+    "episode_score": 0.9997797593639317,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.12517375315336485,
+    "p": 0.08393390352042332
+  },
+  {
+    "generation": 67,
+    "episode_score": 0.9133602840883779,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.4220582360700481,
+    "p": 0.0
+  },
+  {
+    "generation": 68,
+    "episode_score": 0.9577127427375108,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3233024587757038,
+    "p": 0.12757794484999718
+  },
+  {
+    "generation": 69,
+    "episode_score": 0.7889358792806058,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.2601274043743367,
+    "p": 0.3
+  },
+  {
+    "generation": 70,
+    "episode_score": 0.9980503785179032,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.16970048265510682,
+    "p": 0.20616653840050272
+  },
+  {
+    "generation": 71,
+    "episode_score": 0.9538625780516479,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.23522106536294918,
+    "p": 0.041851911450317435
+  },
+  {
+    "generation": 72,
+    "episode_score": 0.70018631460633,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.22955452946758584,
+    "p": 0.3
+  },
+  {
+    "generation": 73,
+    "episode_score": 0.99904043809718,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.46012655493179044,
+    "p": 0.09579794664167195
+  },
+  {
+    "generation": 74,
+    "episode_score": 0.9933819358254525,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.2849941524495257,
+    "p": 0.1366468222409164
+  },
+  {
+    "generation": 75,
+    "episode_score": 0.8367324458657855,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.37803233051752405,
+    "p": 0.0
+  },
+  {
+    "generation": 76,
+    "episode_score": 0.3937871115384174,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.47195901653689804,
+    "p": 0.0
+  },
+  {
+    "generation": 77,
+    "episode_score": 0.8733863763236247,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.39167428403963045,
+    "p": 0.0
+  },
+  {
+    "generation": 78,
+    "episode_score": 0.987322549096523,
+    "bin": [
+      2,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.43621103155862534,
+    "p": 0.08008138096837591
+  },
+  {
+    "generation": 79,
+    "episode_score": 0.9775174887251148,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4070730862752498,
+    "p": 0.04913647200820837
+  },
+  {
+    "generation": 80,
+    "episode_score": 0.9999682059621374,
+    "bin": [
+      2,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.1700641550194781,
+    "p": 0.11401641534470401
+  },
+  {
+    "generation": 81,
+    "episode_score": 0.9888003121384982,
+    "bin": [
+      2,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.1546156034722881,
+    "p": 0.19473896167978894
+  },
+  {
+    "generation": 82,
+    "episode_score": 0.6816855033912179,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.3287994150737289,
+    "p": 0.04778044962851624
+  },
+  {
+    "generation": 83,
+    "episode_score": 0.9907498301617061,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.386766750745114,
+    "p": 0.18890032407410018
+  },
+  {
+    "generation": 84,
+    "episode_score": 0.6162131328137278,
+    "bin": [
+      0,
+      0,
+      0
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4492708275164932,
+    "p": 0.2261273202460433
+  },
+  {
+    "generation": 85,
+    "episode_score": 0.7942175627367619,
+    "bin": [
+      1,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.2896452152880343,
+    "p": 0.0
+  },
+  {
+    "generation": 86,
+    "episode_score": 0.996122411474897,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.0949237175129283,
+    "p": 0.057238891601745584
+  },
+  {
+    "generation": 87,
+    "episode_score": 0.9950998423331011,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.15251568918305666,
+    "p": 0.11617323758398376
+  },
+  {
+    "generation": 88,
+    "episode_score": 0.3380761256515676,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4765382126599569,
+    "p": 0.17018526380747814
+  },
+  {
+    "generation": 89,
+    "episode_score": 0.8169619259931634,
+    "bin": [
+      0,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3104965757464654,
+    "p": 0.05546777643747774
+  },
+  {
+    "generation": 90,
+    "episode_score": 0.9002731512704183,
+    "bin": [
+      1,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.17807368468533188,
+    "p": 0.1678284232180233
+  },
+  {
+    "generation": 91,
+    "episode_score": 0.9807364044218496,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.1857595655923558,
+    "p": 0.07234797504723373
+  },
+  {
+    "generation": 92,
+    "episode_score": 0.9967254632278789,
+    "bin": [
+      0,
+      0,
+      2
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.4033759722548492,
+    "p": 0.16495367969694313
+  },
+  {
+    "generation": 93,
+    "episode_score": 0.9824822342763594,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.40894504813817495,
+    "p": 0.027856534797578474
+  },
+  {
+    "generation": 94,
+    "episode_score": 0.7782963355197102,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.23423080878022168,
+    "p": 0.062341606065758406
+  },
+  {
+    "generation": 95,
+    "episode_score": 0.5779684913251832,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.15709169809171708,
+    "p": 0.1452120923504736
+  },
+  {
+    "generation": 96,
+    "episode_score": 0.804092394786541,
+    "bin": [
+      0,
+      0,
+      0
+    ],
+    "added": true,
+    "failure": 1,
+    "eps_s": 0.3735530412383121,
+    "p": 0.07926455680301966
+  },
+  {
+    "generation": 97,
+    "episode_score": 0.7531776641676814,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.34025913040219374,
+    "p": 0.054751760590679655
+  },
+  {
+    "generation": 98,
+    "episode_score": 0.8167360094108626,
+    "bin": [
+      2,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.16844948461150214,
+    "p": 0.0
+  },
+  {
+    "generation": 99,
+    "episode_score": 0.4947491096808407,
+    "bin": [
+      0,
+      0,
+      1
+    ],
+    "added": false,
+    "failure": 1,
+    "eps_s": 0.4598673955303259,
+    "p": 0.0447592490985843
+  }
+]

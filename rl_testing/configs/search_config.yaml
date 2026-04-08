@@ -1,0 +1,10 @@
+# Search hyperparameters
+n_init_episodes: 50
+n_generations: 100
+top_n_features: 3
+n_bins: 3
+top_k_per_bin: 5
+tournament_size: 3
+tournament_prob: 0.8
+mutation_std: 0.05
+seed: 42

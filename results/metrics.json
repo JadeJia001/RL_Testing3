@@ -1,0 +1,30 @@
+{
+  "G0": {
+    "total_episodes": 150,
+    "failure_rate": 0.9933333333333333,
+    "n_failures": 149,
+    "failure_coverage_bins": 9,
+    "failure_coverage_total": 27,
+    "failure_coverage_ratio": 1.0,
+    "auroc": 0.38926174496644295,
+    "auprc": 0.9937719675009475,
+    "ece": 0.10320362696265192,
+    "time_to_first_failure": 1,
+    "max_episode_score": 0.9999199395627356,
+    "mean_episode_score": 0.8901297063706815
+  },
+  "G1": {
+    "total_episodes": 150,
+    "failure_rate": 1.0,
+    "n_failures": 150,
+    "failure_coverage_bins": 9,
+    "failure_coverage_total": 27,
+    "failure_coverage_ratio": 1.0,
+    "auroc": null,
+    "auprc": null,
+    "ece": 0.14235322549559773,
+    "time_to_first_failure": 1,
+    "max_episode_score": 0.9999682059621374,
+    "mean_episode_score": 0.8576467745044022
+  }
+}
